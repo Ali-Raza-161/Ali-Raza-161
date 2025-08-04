@@ -52,8 +52,11 @@ I'm **Ali Raza**, a passionate web developer focused on building **responsive in
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Raza-161&layout=compact&theme=github_light&langs_count=8)
 
----
-
+> 💡 My top languages include:
+- **JavaScript** – for logic and interactivity
+- **React.js** – for building fast, component-based web interfaces
+- **HTML/CSS** – for structure and styling
+--
 ## 🧠 Tools & Languages
 
 <p align="left">
